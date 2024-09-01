@@ -1,0 +1,18 @@
+body {
+    background-color: lightgray;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  h1 {
+      font-family: Helvetica;
+      color: blue;
+  }
+  
+  #redcentered {
+    color: red;
+    text-align: center;
+  }
+  
